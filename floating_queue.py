@@ -1,4 +1,6 @@
 # start out by taking out the priority queue. Can we get it to do jobs in a list.
+# Then add cancel job function
+# then add a priority queue instead of queue and find a place for reheap. Likely gonna be in the add_job function.
 
 import threading
 import time
